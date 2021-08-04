@@ -1,3 +1,10 @@
+Desenvolvido por:
+https://github.com/brutalzinn/
+
+Parceria pós-graduação.
+
+______________________________________________________________________________________________________________
+
 # api-auto-schema
 This is an small api that I developed for the bootcamp of the infnet institute. Using a json document for storage of data.
 
